@@ -3,4 +3,4 @@
 
  Aprendendo a criar Portfólio.
 
-<a href="https://github.com/pauloreducino/pauloreducino.github.io">Executar o desafio do meu Portfólio</a>
+<a href="https://pauloreducino.github.io/">Executar o desafio do meu Portfólio</a>
